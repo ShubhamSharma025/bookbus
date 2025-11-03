@@ -2,6 +2,13 @@
 
 A Spring Boot backend application for bus booking system that provides RESTful APIs for managing bus reservations, routes, and passenger information.
 
+[![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Next.js](https://img.shields.io/badge/Next.js-15.5.4-black?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ShubhamSharma025/bookbus)](https://github.com/ShubhamSharma025/bookbus/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/ShubhamSharma025/bookbus)](https://github.com/ShubhamSharma025/bookbus/issues)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
